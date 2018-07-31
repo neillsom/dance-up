@@ -10,7 +10,8 @@ gem 'sqlite3', group: [:development, :test]
 
 # Use postgresql as the database for production
 group :production do
-  gem 'pg'
+  # neill: bumping down from 1.0 to .21 to solve heroku build fail
+  gem 'pg', '0.21'
   gem 'rails_12factor'
 end
 
