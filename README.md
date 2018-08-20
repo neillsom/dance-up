@@ -1,3 +1,4 @@
+
 ## Dance Up: Ruby on Rails Member Subscription Site
 Dance Up is a software as a service (SaaS) web application built with Ruby on Rails. Other technologies used are jQuery, Bootstrap, and SCSS. Users can create a free account with limited user information access or a paid account with full access. Additionally, users can upload avatars and post status updates in their profiles. Payments are captured through Stripe. Mailers are handled by Sendgrid.
 
@@ -14,7 +15,7 @@ About:
 
 Contact:
 ![Contact](https://s3.us-west-2.amazonaws.com/neillsomerville/dance-up/neill_somerville_portfolio_dance_up_03_contact.jpg "Contact")
-	
+  
 Signup:
 ![Signup](https://s3.us-west-2.amazonaws.com/neillsomerville/dance-up/neill_somerville_portfolio_dance_up_04_signup.jpg "Signup")
 
@@ -115,10 +116,10 @@ end
 - Install gems / dependencies: `bundle install`
 - `bundle exec rake db:create db:migrate`
 - Create membership plans in database
-`$ bundle exec rails c`
-` > Plan.create(name: 'basic', price: 0)`
-` > Plan.create(name: 'pro', price: 10)`
-` > exit`
+  - `$ bundle exec rails c`
+  - ` > Plan.create(name: 'basic', price: 0)`
+  - ` > Plan.create(name: 'pro', price: 10)`
+  - ` > exit`
 
 - Start the application: `bundle exec rails server`
 - App is now running on local host port 3000 http://localhost:3000/
