@@ -14,7 +14,7 @@ About:
 
 Contact:
 ![Contact](https://s3.us-west-2.amazonaws.com/neillsomerville/dance-up/neill_somerville_portfolio_dance_up_03_contact.jpg "Contact")
-
+	
 Signup:
 ![Signup](https://s3.us-west-2.amazonaws.com/neillsomerville/dance-up/neill_somerville_portfolio_dance_up_04_signup.jpg "Signup")
 
