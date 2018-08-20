@@ -108,8 +108,8 @@ end
 ```
 
 ## Installation
-*The project was written in Ruby 2.2 and Rails 4.1.0*
-To run this project locally:
+*This project was written in Ruby 2.2 and Rails 4.1.0*
+### To run this project locally:
 - Clone the repository: `git clone https://github.com/neillsom/dance-up YOUR_PROJECT_NAME`
 - Move into the project directory: `cd YOUR_PROJECT_NAME`
 - Install gems / dependencies: `bundle install`
